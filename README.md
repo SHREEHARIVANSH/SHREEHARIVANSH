@@ -1,5 +1,4 @@
-#conclusion of insights from Sales data Analysis
-# prompt: i want to conclude all the above charts with their title,analysis and recommendation
+Sales_store
 
 print("## Monthly Sales Analysis")
 print("*Analysis:* The line chart displays monthly sales trends.  Observe peaks and valleys to understand seasonal patterns or specific events impacting sales.")
